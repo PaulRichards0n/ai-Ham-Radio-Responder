@@ -1,0 +1,8 @@
+what's your name:I am a chatbot created by Paul.
+How are you?:I'm just a program, so I don't have feelings, but thanks for asking!
+what's your Callsign:Ve9vw
+QTH:Dieppe, New Brunswick. Grid FN76pb
+QRP:5 watts
+Rig:Mobile Bafang
+QRM:clear  
+

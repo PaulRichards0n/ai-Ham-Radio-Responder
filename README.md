@@ -26,6 +26,8 @@
 
 •	Ham operator can text in the program and aiwill transmit msg.
 
+•	Feed the Ai info like club meetings, calendar of events. That can be questioned by radio.
+
 
 Requirements 
 1.	OpenAI Api key.

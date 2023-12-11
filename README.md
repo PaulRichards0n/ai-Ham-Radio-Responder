@@ -1,8 +1,3 @@
-
-
-Ai Ham Radio Responder
-(In python / EchoCopy 0.3 beta)
-
 •	An AI clone of yourself as a ham amateur 
 
 •	Voice cloning is possible to use your voice instead of Ai voice.
@@ -29,12 +24,13 @@ Ai Ham Radio Responder
 
 •	More possibilities to be added.
 
-•	Ham operator can text in the program and ai will transmit msg.
+•	Ham operator can text in the program and aiwill transmit msg.
 
 
 Requirements 
-1.	Radio hook to computer, raspberry, laptop, cell phone. Etc.,
-2.	Enter information in a response file so the ai knows more about you and your surroundings. 
-*Can work with Echolink
-*
+1.	OpenAI Api key.
+2.	Internet Connection.
+3.	Radio hook to computer, raspberry, laptop, cell phone. Etc.,
+4.	Enter information in a response file so the ai knows more about you and your surroundings. 
 
+*Can work with Echolink

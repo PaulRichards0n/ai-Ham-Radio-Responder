@@ -29,6 +29,8 @@ Ai Ham Radio Responder
 
 •	More possibilities to be added.
 
+•	Ham operator can text in the program and ai will transmit msg.
+
 
 Requirements 
 1.	Radio hook to computer, raspberry, laptop, cell phone. Etc.,

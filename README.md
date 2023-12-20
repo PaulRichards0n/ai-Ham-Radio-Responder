@@ -28,6 +28,8 @@
 
 •	Feed the Ai info like club meetings, calendar of events. That can be questioned by radio.
 
+•	Respond on another language, translate. etc. 
+
 
 Requirements 
 1.	OpenAI Api key.

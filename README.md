@@ -38,3 +38,8 @@ Requirements
 4.	Enter information in a response file so the ai knows more about you and your surroundings. 
 
 *Can work with Echolink
+
+
+Install the dependencies:
+
+pip install -r requirements.txt
